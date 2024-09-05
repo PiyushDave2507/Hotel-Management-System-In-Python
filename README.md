@@ -21,9 +21,11 @@ Displays all room booking records with customer details.
 Prerequisites:
 
 Python 3.x installed on your system.
+
 Execution:
 
 Run the program in the terminal or command prompt by executing the Python script.
+
 You will be prompted to input the number of times the system should run.
 
 # Example Execution:
@@ -44,6 +46,7 @@ After running the program, you will be presented with a main menu with the follo
 5.Record: Displays all booking records.
 
 6.Exit: Exits the program.
+
 Navigate by entering the corresponding number for each action.
 
 # Code Structure
@@ -63,5 +66,7 @@ Navigate by entering the corresponding number for each action.
 # Future Improvements
 
 Enhance the user interface with better error handling and input validation.
+
 Save booking records and payment details to a database or file for persistence.
+
 Expand the restaurant menu and include more room types with dynamic pricing.
