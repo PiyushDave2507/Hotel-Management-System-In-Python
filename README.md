@@ -54,11 +54,11 @@ Navigate by entering the corresponding number for each action.
 
 3. Room_info(): Displays details about the room types.
 
- 4.Restaurant(): Allows customers to order food and calculate their total restaurant bill.
+4.Restaurant(): Allows customers to order food and calculate their total restaurant bill.
 
- 5.Payment(): Processes payment, adding up room and restaurant charges, and allows different payment methods.
+5.Payment(): Processes payment, adding up room and restaurant charges, and allows different payment methods.
 
- 6.Record(): Displays all booking records.
+6.Record(): Displays all booking records.
 
 # Future Improvements
 
