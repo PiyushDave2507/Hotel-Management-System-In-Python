@@ -2,6 +2,7 @@
 This is a Python-based console application that simulates a basic hotel management system. The system allows users to perform tasks such as booking rooms, checking room information, placing restaurant orders, processing payments, and viewing booking records.
 
 Features->
+
 1.Room Booking:
 Allows customers to book different types of rooms (Non-AC, AC, etc.), assigns a customer ID, and stores booking details.
 
