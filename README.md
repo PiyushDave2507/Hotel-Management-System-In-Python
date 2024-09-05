@@ -32,6 +32,7 @@ You will be prompted to input the number of times the system should run.
 User Navigation:
 
 After running the program, you will be presented with a main menu with the following options:
+
 1.Booking: Starts the room booking process.
 
 2.Room Info: Shows details of available rooms.
@@ -53,11 +54,11 @@ Navigate by entering the corresponding number for each action.
 
 3. Room_info(): Displays details about the room types.
 
-4.Restaurant(): Allows customers to order food and calculate their total restaurant bill.
+ 4.Restaurant(): Allows customers to order food and calculate their total restaurant bill.
 
-5.Payment(): Processes payment, adding up room and restaurant charges, and allows different payment methods.
+ 5.Payment(): Processes payment, adding up room and restaurant charges, and allows different payment methods.
 
-6.Record(): Displays all booking records.
+ 6.Record(): Displays all booking records.
 
 # Future Improvements
 
